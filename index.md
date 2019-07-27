@@ -1,4 +1,4 @@
-## COOL STUFF BY BRIAN
+## I AM CURRENTLY A HEADING AND BRIAN JUST CHANGED ME
 
 You can use the [editor on GitHub](https://github.com/bnates/bnates.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
